@@ -2,8 +2,7 @@
 
 #### Coffee and Code? I'm in!
 
-*Freshman at IIT Madras*
-
+*Freshman at IIT Madras*<br>
 *Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![GitHub ashwin5059198](https://img.shields.io/github/followers/ashwin5059198?label=follow&style=social)](https://github.com/ashwin5059198)
