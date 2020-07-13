@@ -19,7 +19,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ---
-[![](https://https://eno5guwrhjd8qqk.m.pipedream.net)](http://tod.ly/3iOKHb2)
+![](https://eno5guwrhjd8qqk.m.pipedream.net)
 
 <!--
 **ashwin5059198/ashwin5059198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
