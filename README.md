@@ -1,4 +1,4 @@
-## Hi! Ashwin here 👋
+## Hi! Ashwin here <img src="https://media.tenor.com/images/fe6ba816516dec7dcf217454510bdecb/tenor.gif" width="35">
 
 <img align='right' src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" width="230">
 
