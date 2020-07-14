@@ -9,6 +9,8 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 
 [![GitHub ashwin5059198](https://img.shields.io/github/followers/ashwin5059198?label=follow&style=social)](https://github.com/ashwin5059198)
 
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin5059198&show_icons=true)
+
 **My arena**:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
