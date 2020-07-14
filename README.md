@@ -13,12 +13,17 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 
 **My arena**:
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/bash.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/golangLogo.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png"></code>
+<img height="35" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="35" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="35" style="margin: 10px" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/bash.png">
+<img height="35" style="margin: 10px" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/golangLogo.png">
+<img height="35" style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
+<img height="35" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img height="35" style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png">
 
 ---
+
+<div>
+    <img align="right" style="display:block;margin:10px 0 10px 10px;" height="30" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/gmail.png">
+    <img align="right" style="display:block;margin:10px 0 10px 10px;" height="30" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/gitlab.png">
+</div>
