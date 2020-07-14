@@ -56,6 +56,11 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 
 <div class="row">
     <div class="column">
+        <a href="https://www.linkedin.com/in/ashwin-a-aa70951a6/">
+            <img align="right" style="display:block;margin:10px 10px 10px 10px;" height="30" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/linkedin.png">
+        </a>
+    </div>
+    <div class="column">
         <a href="mailto:ashwin5059198@gmail.com">
             <img align="right" style="display:block;margin:10px 10px 10px 10px;" height="30" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/gmail.png">
         </a>
