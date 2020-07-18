@@ -16,15 +16,7 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 <div class="row">
     <div class="column" align="left" height="35" style="margin: 10px 10px 10px 10px;">
         <a href="https://www.python.org/">
-        <svg height="80" width="80" stroke="#2f80ed" stroke-width="4">
-        <image
-          x="10"
-          y="10"
-          width="60"
-          height="60"
-          href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-        />
-        <path fill="transparent" d="M 71.60602689904441 34.99409711871261 A 32 32 0 1 0 17.372583002030474 62.62741699796952" />
+        <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/python.svg">
         </a>
     </div>
     <div class="column">
