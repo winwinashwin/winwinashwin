@@ -16,7 +16,7 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 <div class="row">
     <div class="column" align="left" height="35" style="margin: 10px 10px 10px 10px;">
         <a href="https://www.python.org/">
-        <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/python.svg">
+        <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
         </a>
     </div>
     <div class="column">
