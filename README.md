@@ -7,7 +7,11 @@
 _Freshman at Indian Institute of Technology, Madras_<br>
 _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[![GitHub ashwin5059198](https://img.shields.io/github/followers/ashwin5059198?label=follow&style=social)](https://github.com/ashwin5059198)
+<div>
+    <a href="https://github.com/ashwin5059198">
+        <img height="25" src="https://img.shields.io/github/followers/ashwin5059198?label=follow&style=social">
+    </a>
+</div><br>
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin5059198&show_icons=true)
 
