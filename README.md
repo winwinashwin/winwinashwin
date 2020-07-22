@@ -11,9 +11,10 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
     <a href="https://github.com/ashwin5059198">
         <img height="25" src="https://img.shields.io/github/followers/ashwin5059198?label=follow&style=social">
     </a>
-</div><br>
+</div><br><br>
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin5059198&show_icons=true)
+
 
 **My arena**:
 
@@ -54,7 +55,7 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
         </a>
     </div>
 </div>
-<br>
+<br><br>
 
 ---
 
