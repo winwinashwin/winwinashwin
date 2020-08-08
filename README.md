@@ -5,7 +5,8 @@
 #### Coffee and Code? I'm in!
 
 _Freshman at Indian Institute of Technology, Madras_<br>
-_Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+_Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+_Chronic Vim addict_<br>
 
 <div>
     <a href="https://github.com/ashwin5059198">
