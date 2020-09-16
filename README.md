@@ -17,6 +17,8 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin5059198&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin5059198)
+
 
 **My arena**:
 
