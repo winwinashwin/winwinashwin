@@ -95,7 +95,7 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
     </div>
     <div class="column>
         <a href="https://randos.online/u/ashwin5059198/next">
-        <img align="left" style="display:block;margin:10px 10px 10px 10px;" height="40" src="https://randos.online/u/ashwin5059198?theme=blue">
+        <img align="left" style="display:block;margin:10px 10px 10px 10px;" height="40" src="https://randos.online/u/ashwin5059198?theme=green">
         </a>
     </div>
 </div>
