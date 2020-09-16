@@ -17,8 +17,14 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 
 <p align="center" justify="center">
   <a href="https://github.com/ashwin5059198/github-readme-stats" target="_blank" justify="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwin5059198&show_icons=true&hide=issues&include_all_commits=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin5059198&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwin5059198&title_color=2e2e2e&show_icons=true&hide=issues&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin5059198&title_color=2e2e2e&layout=compact" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashwin5059198&theme=gruvbox"/>
   </a>
 </p>
 
