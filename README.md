@@ -6,7 +6,7 @@
 
 **_\#vimaholic_**
 
-_Freshman at Indian Institute of Technology, Madras_<br>
+_Sophomore at Indian Institute of Technology, Madras_<br>
 _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 
 <div>
