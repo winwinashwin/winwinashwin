@@ -46,11 +46,11 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
             <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/bash.png">
         </a>
     </div>
-    <div class="column">
+<!--     <div class="column">
         <a href="https://golang.org/">
             <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/golangLogo.png">
         </a>
-    </div>
+    </div> -->
     <div class="column">
         <a href="https://www.ros.org/">
             <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
