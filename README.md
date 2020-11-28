@@ -28,7 +28,7 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
   </a>
 </p>
 
-**My arena**:
+**Languages and Tools**:
 
 <div class="row">
     <div class="column" align="left" height="35" style="margin: 10px 10px 10px 10px;">
