@@ -35,12 +35,12 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 <div class="row">
     <div class="column" align="left" height="35" style="margin: 10px 10px 10px 10px;">
         <a href="https://www.python.org/">
-        <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+        <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/python.png">
         </a>
     </div>
     <div class="column">
         <a href="https://isocpp.org/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/cpp.png">
         </a>
     </div>
     <div class="column">
@@ -61,6 +61,16 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
     <div class="column">
         <a href="https://www.qt.io/">
             <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png">
+        </a>
+    </div>
+    <div class="column">
+        <a href="https://cmake.org/">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://cmake.org/wp-content/uploads/2019/05/Cmake-logo-header.png">
+        </a>
+    </div>
+    <div class="column">
+        <a href="https://www.selenium.dev/">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://www.selenium.dev/images/selenium_logo_square_green.png">
         </a>
     </div>
 </div>
