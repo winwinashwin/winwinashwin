@@ -1,13 +1,13 @@
-## Hi! Ashwin here <img src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/gif/1.gif" width="35">
+## Hi! Ashwin here <img src="https://media.tenor.com/images/fe6ba816516dec7dcf217454510bdecb/tenor.gif" width="35">
 
-<img align='right' src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/gif/2.gif" width="230">
+<img align='right' src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" width="230">
 
 #### Coffee and Code? I'm in!
 
 **_\#vimaholic_**
 
 _Sophomore at Indian Institute of Technology, Madras_<br>
-_Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/gif/3.gif" width="30"><br>
+_Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 
 <div>
     <a href="https://github.com/ashwin5059198">
