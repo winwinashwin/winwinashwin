@@ -45,32 +45,32 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
     </div>
     <div class="column">
         <a href="https://www.gnu.org/software/bash/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/img/bash.png">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/bash.png">
         </a>
     </div>
     <div class="column">
         <a href="https://www.ros.org/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/ros.svg">
         </a>
     </div>
     <div class="column">
         <a href="https://www.docker.com/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/docker.png">
         </a>
     </div>
     <div class="column">
         <a href="https://www.qt.io/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/qt.png">
         </a>
     </div>
     <div class="column">
         <a href="https://cmake.org/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://cmake.org/wp-content/uploads/2019/05/Cmake-logo-header.png">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/cmake.png">
         </a>
     </div>
     <div class="column">
         <a href="https://www.selenium.dev/">
-            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://www.selenium.dev/images/selenium_logo_square_green.png">
+            <img align="left" height="35" style="margin: 10px 10px 10px 10px;" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/selenium.png">
         </a>
     </div>
 </div>
