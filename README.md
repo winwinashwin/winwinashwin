@@ -22,11 +22,13 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=ashwin5059198&theme=gruvbox"/>
   </a>
 </p>
+-->
 
 **Languages and Tools**:
 
@@ -65,7 +67,6 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 <br><br>
 
 ---
-
 
 <div class="row">
     <div class="column">
