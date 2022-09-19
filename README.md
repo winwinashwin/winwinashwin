@@ -14,11 +14,9 @@ A digital nomad and philomath just minding his business. Interested in Algorithm
     </a>
 </div><br><br>
 
-<p align="center" justify="center">
-  <a href="https://github.com/nocoinman/github-readme-stats" target="_blank" justify="center">
-    <img style="width: 50%; height: 40%;" src="https://github-readme-stats.vercel.app/api?username=nocoinman&title_color=2e2e2e&show_icons=true&hide=issues&include_all_commits=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocoinman&title_color=2e2e2e&layout=compact" />
-  </a>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nocoinman&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nocoinman&theme=dark&hide_border=true" width = 400>
 </p>
 
 <!--
