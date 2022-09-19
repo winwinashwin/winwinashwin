@@ -16,8 +16,8 @@ A digital nomad and philomath just minding his business. Interested in Algorithm
 
 <p align="center" justify="center">
   <a href="https://github.com/nocoinman/github-readme-stats" target="_blank" justify="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nocoinman&title_color=2e2e2e&show_icons=true&hide=issues&include_all_commits=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocoinman&title_color=2e2e2e&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nocoinman&title_color=2e2e2e&show_icons=true&hide=issues&include_all_commits=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocoinman&title_color=2e2e2e&layout=compact" />
   </a>
 </p>
 
