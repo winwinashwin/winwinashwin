@@ -6,8 +6,7 @@
 
 **_\#vimaholic_**
 
-_Sophomore at Indian Institute of Technology, Madras_<br>
-_Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+A digital nomad and philomath just minding his business. Interested in Algorithms, Robotics, AI and Autonomous vehicles.
 
 <div>
     <a href="https://github.com/nocoinman">
@@ -30,8 +29,9 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
 </p>
 -->
 
-**Languages and Tools**:
+**Languages and Tools**: Whatever is required to get the job done.
 
+<!--
 <div class="row">
     <div class="column" align="left" height="35" style="margin: 10px 10px 10px 10px;">
         <a href="https://www.python.org/">
@@ -75,6 +75,7 @@ _Software module member at [Abhiyaan, CFI](https://www.teamabhiyaan.com/)_<img s
     </div>
 </div>
 <br><br>
+-->
 
 ---
 
