@@ -27,7 +27,7 @@ A digital nomad and philomath just minding his business. Interested in Algorithm
 </p>
 -->
 
-**Languages and Tools**: Whatever is required to get the job done.
+<!-- **Languages and Tools**: Whatever is required to get the job done. -->
 
 <!--
 <div class="row">
